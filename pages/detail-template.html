@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{title}} - DeepSeek模型导航</title>
+    <link rel="stylesheet" href="../css/details.css">
+</head>
+<body>
+    <header>
+        <nav class="back-nav">
+            <a href="../index.html">← 返回首页</a>
+        </nav>
+        <h1>{{title}}</h1>
+    </header>
+
+    <main class="detail-content">
+        <div class="preview-image">
+            <img src="{{image}}" alt="{{title}}预览图">
+        </div>
+        
+        <section class="info-section">
+            <h2>基本信息</h2>
+            <div class="info-grid">
+                <div class="info-item">
+                    <span class="label">类型</span>
+                    <span class="value">{{type}}</span>
+                </div>
+                <div class="info-item">
+                    <span class="label">访问地址</span>
+                    <a href="{{url}}" target="_blank" class="value link">立即访问</a>
+                </div>
+            </div>
+        </section>
+
+        <section class="description-section">
+            <h2>详细说明</h2>
+            <div class="description">
+                {{description}}
+            </div>
+        </section>
+
+        <section class="features-section">
+            <h2>特点功能</h2>
+            <ul class="feature-list">
+                {{features}}
+            </ul>
+        </section>
+    </main>
+
+    <footer>
+        <p>更新时间：2025-02-12</p>
+    </footer>
+</body>
+</html> 

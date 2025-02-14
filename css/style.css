@@ -1,0 +1,183 @@
+:root {
+    --primary-color: #4a90e2;
+    --background-color: #f5f7fa;
+    --card-background: #ffffff;
+    --text-primary: #333333;
+    --text-secondary: #666666;
+    --transition-speed: 0.3s;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    background-color: var(--background-color);
+    color: var(--text-primary);
+    line-height: 1.6;
+}
+
+header {
+    text-align: center;
+    padding: 2rem 0;
+    background: var(--card-background);
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.subtitle {
+    color: var(--text-secondary);
+    margin-top: 0.5rem;
+}
+
+.tab-container {
+    max-width: 800px;
+    margin: 2rem auto;
+    position: relative;
+}
+
+.tab-wrapper {
+    display: flex;
+    background: var(--card-background);
+    border-radius: 8px;
+    padding: 0.5rem;
+    position: relative;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.tab {
+    flex: 1;
+    padding: 1rem;
+    text-align: center;
+    cursor: pointer;
+    position: relative;
+    z-index: 1;
+    transition: color var(--transition-speed);
+    color: var(--text-secondary);
+    font-weight: 500;
+}
+
+.tab.active {
+    color: white;
+}
+
+.slider {
+    position: absolute;
+    height: 80%;
+    top: 10%;
+    left: 0;
+    background-color: var(--primary-color);
+    border-radius: 6px;
+    transition: transform var(--transition-speed) cubic-bezier(0.4, 0, 0.2, 1);
+    z-index: 0;
+    width: 33.33%;
+}
+
+.card-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: 2rem;
+    padding: 2rem;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.card {
+    background: var(--card-background);
+    border-radius: 12px;
+    padding: 1.5rem;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+    transition: transform var(--transition-speed);
+}
+
+.card:hover {
+    transform: translateY(-5px);
+}
+
+.card img {
+    width: 100%;
+    height: 160px;
+    object-fit: cover;
+    border-radius: 8px;
+    margin-bottom: 1rem;
+}
+
+.card h3 {
+    margin-bottom: 0.5rem;
+    color: var(--text-primary);
+}
+
+.card p {
+    color: var(--text-secondary);
+    font-size: 0.9rem;
+    margin-bottom: 1rem;
+}
+
+.card a {
+    color: var(--primary-color);
+    text-decoration: none;
+    font-weight: 500;
+}
+
+.card-links {
+    display: flex;
+    gap: 1rem;
+    margin-top: 1rem;
+}
+
+.visit-link, .details-link {
+    padding: 0.5rem 1rem;
+    border-radius: 4px;
+    text-decoration: none;
+    font-weight: 500;
+    flex: 1;
+    text-align: center;
+    transition: all var(--transition-speed);
+}
+
+.visit-link {
+    background-color: var(--primary-color);
+    color: white !important;
+}
+
+.visit-link:hover {
+    background-color: #357abd;
+}
+
+.details-link {
+    border: 1px solid var(--primary-color);
+    color: var(--primary-color) !important;
+}
+
+.details-link:hover {
+    background-color: #f0f7ff;
+}
+
+.tab-content {
+    display: block;
+    opacity: 0;
+    visibility: hidden;
+    transition: opacity var(--transition-speed), visibility var(--transition-speed);
+    position: absolute;
+    width: 100%;
+}
+
+.tab-content.active {
+    opacity: 1;
+    visibility: visible;
+    position: relative;
+}
+
+.content-wrapper {
+    position: relative;
+    min-height: 400px;
+}
+
+footer {
+    text-align: center;
+    padding: 2rem;
+    color: var(--text-secondary);
+    margin-top: 2rem;
+} 
