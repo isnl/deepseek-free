@@ -1,4 +1,4 @@
-更新时间：2025-02-12
+更新时间：2025-02-14
 
 通过使用第三方平台的在线服务，或使用api的方式接入 chatbox 或 cherry studio等开源软件
 
@@ -28,10 +28,6 @@
 
 4.潞晨云
 
-[https://cloud.luchentech.com/account/signup?invitation_code=invite_SrjPAnLFD1KzKKn25HQF8T](https://cloud.luchentech.com/account/signup?invitation_code=invite_SrjPAnLFD1KzKKn25HQF8T)
-
-![](https://static.iiter.cn/article/c04f1fbdcd234517821a2694fa1b2ddc.png)
-
 注册即可使用，送10元体验余额，满血deepseek-r1模型，在线体验版本提供联网搜索支持
 
 分免费版api和收费版api，免费版api有限流
@@ -44,6 +40,11 @@ deepseek-ai/DeepSeek-R1
 VIP/deepseek-ai/DeepSeek-R1
 无限流
 
+[https://cloud.luchentech.com/account/signup?invitation_code=invite_SrjPAnLFD1KzKKn25HQF8T](https://cloud.luchentech.com/account/signup?invitation_code=invite_SrjPAnLFD1KzKKn25HQF8T)
+
+![](https://static.iiter.cn/article/c04f1fbdcd234517821a2694fa1b2ddc.png)
+
+
 
 
 5.钉钉(32b蒸馏版本)
@@ -54,9 +55,10 @@ VIP/deepseek-ai/DeepSeek-R1
 
 6.支付宝百宝箱
 
+登录后新建应用，语言模型选择 `DeepSeek-R1.满血版` 即可免费使用
+
 [https://tbox.alipay.com/](https://tbox.alipay.com/)
 
-登录后新建应用，语言模型选择 `DeepSeek-R1.满血版` 即可免费使用
 
 ![](https://static.iiter.cn/article/8a6510f8aaeca5e7ad48598ec50262f0.png)
 
@@ -65,34 +67,38 @@ VIP/deepseek-ai/DeepSeek-R1
 
 7.国家超算中心
 
+非满血版本 支持7B和32B蒸馏版本  
+
 [https://chat.scnet.cn/](https://chat.scnet.cn/)
 
-非满血版本 支持7B和32B蒸馏版本  
 
 ![](https://static.iiter.cn/article/a9783575f02969b5070a27871954c2b7.png)
 
 8.基石
 
-https://www.coreshub.cn/
+注册即送50元配额，需要实名认证，可在线体验，不支持联网搜索
+
+[https://www.coreshub.cn/](https://www.coreshub.cn/)
 
 ![](https://static.iiter.cn/article/6fb25c3595fea96790a8fe40b9088ac5.png)
 
-注册即送50元配额，需要实名认证，可在线体验，不支持联网搜索
 
 9.无问芯穹
 
+注册即可在线免费体验
+
 [https://cloud.infini-ai.com/](https://cloud.infini-ai.com/)
 
-注册即可在线免费体验
 
 ![](https://static.iiter.cn/article/9a6b53f768901c9f3227930efbd1cf65.png)
 
 
 10.商汤大装置
 
+注册即送80元代金券，需要开通大模型服务方可使用，如下图
+
 [https://console.sensecore.cn/](https://console.sensecore.cn/)
 
-注册即送80元代金券，需要开通大模型服务方可使用，如下图
 
 ![](https://static.iiter.cn/article/ad1e2438fec7064471196a53db70dc8b.png)
 
@@ -103,40 +109,40 @@ https://www.coreshub.cn/
 
 1.腾讯云
 
+openai接口兼容，限时免费，v3和r1双模型支持，即日至北京时间2025年2月25日23:59:59，所有腾讯云用户均可享受DeepSeek-V3、DeepSeek-R1模型限时免费服务，单账号限制接口并发上限为5。在此之后，模型价格将恢复至原价。
+
 [https://cloud.tencent.com/document/product/1772/115963](https://cloud.tencent.com/document/product/1772/115963)
 
-openai接口兼容，限时免费，v3和r1双模型支持，即日至北京时间2025年2月25日23:59:59，所有腾讯云用户均可享受DeepSeek-V3、DeepSeek-R1模型限时免费服务，单账号限制接口并发上限为5。在此之后，模型价格将恢复至原价。
 
 ![](https://static.iiter.cn/article/23b47e9799ec8452a48c13d3e2fb195f.png)
 
 
 ### 2.阿里云百炼
 
+登录即送送100万tokens 180天有效期
+
 [https://bailian.console.aliyun.com/](https://bailian.console.aliyun.com/)
 
 ![](https://static.iiter.cn/article/6fb25c3595fea96790a8fe40b9088ac5.png)
 
-赠送100万tokens 180天有效期
 
 ## 3.硅基流动
 
+注册即送14元平台配额，可接入API接口，openai接口兼容，模型支持比较全
+
 [https://cloud.siliconflow.cn/i/gSzg42jx](https://cloud.siliconflow.cn/i/gSzg42jx)
 
-注册即送14元平台配额，可免费使用，openai接口兼容，模型支持比较全
 
 ### 4.基石
+
+注册即送50元配额，需要实名认证，openai接口兼容
 
 [https://www.coreshub.cn/](https://www.coreshub.cn/)
 
 ![](https://static.iiter.cn/article/6fb25c3595fea96790a8fe40b9088ac5.png)
 
-注册即送50元配额，需要实名认证，openai接口兼容，api接口也是经常不显示思维链内容
 
 ### 5.潞晨云
-
-[https://cloud.luchentech.com/account/signup?invitation_code=invite_SrjPAnLFD1KzKKn25HQF8T](https://cloud.luchentech.com/account/signup?invitation_code=invite_SrjPAnLFD1KzKKn25HQF8T)
-
-![](https://static.iiter.cn/article/c04f1fbdcd234517821a2694fa1b2ddc.png)
 
 注册即可使用，送10元体验余额，满血deepseek-r1模型
 
@@ -150,17 +156,24 @@ deepseek-ai/DeepSeek-R1
 VIP/deepseek-ai/DeepSeek-R1
 无限流
 
-### 6.无问芯穹
+[https://cloud.luchentech.com/account/signup?invitation_code=invite_SrjPAnLFD1KzKKn25HQF8T](https://cloud.luchentech.com/account/signup?invitation_code=invite_SrjPAnLFD1KzKKn25HQF8T)
 
-[https://cloud.infini-ai.com/](https://cloud.infini-ai.com/)
+![](https://static.iiter.cn/article/c04f1fbdcd234517821a2694fa1b2ddc.png)
+
+
+### 6.无问芯穹
 
 满血，注册即可使用，API限时免费调用
 
+[https://cloud.infini-ai.com/](https://cloud.infini-ai.com/)
+
+
 ### 7.商汤大装置
+
+注册即送80元代金券，需要开通后方可使用
 
 [https://console.sensecore.cn/](https://console.sensecore.cn/)
 
-注册即送80元代金券，需要开通后方可使用
 
 ![](https://static.iiter.cn/article/ad1e2438fec7064471196a53db70dc8b.png)
 
@@ -172,17 +185,19 @@ VIP/deepseek-ai/DeepSeek-R1
 
 1.ChatBox:
 
+Chatbox 是一个 AI 模型桌面客户端，支持 ChatGPT、Claude、Google Gemini、Ollama 等主流模型，适用于 Windows、Mac、Linux、Web、Android 和 iOS 全平台
+
 ![](https://static.iiter.cn/article/1ac8b0a307a0a933307db014dcfbc72d.png)
 
-Chatbox 是一个 AI 模型桌面客户端，支持 ChatGPT、Claude、Google Gemini、Ollama 等主流模型，适用于 Windows、Mac、Linux、Web、Android 和 iOS 全平台
 
 [git@github.com:Bin-Huang/chatbox.git](git@github.com:Bin-Huang/chatbox.git)
 
 
 2.cherry-studio:
 
+Cherry Studio 是一款支持多个大语言模型（LLM）服务商的桌面客户端，兼容 Windows、Mac 和 Linux 系统。
+
 ![](https://static.iiter.cn/article/78113118e190ca51374ac827d4221ec5.png)
 
-Cherry Studio 是一款支持多个大语言模型（LLM）服务商的桌面客户端，兼容 Windows、Mac 和 Linux 系统。
 
 [https://github.com/CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
