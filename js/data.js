@@ -1,6 +1,13 @@
 const navigationData = {
     online: [
         {
+            title: "腾讯元宝",
+            description: "满血版本，支持联网搜索，稳定性强，微信/QQ扫码登录即可",
+            image: "https://static.iiter.cn/article/e21902966e61af0ee97b83896701d790.png",
+            url: "https://yuanbao.tencent.com/",
+            details: "pages/yuanbao.html"
+        },
+        {
             title: "腾讯云",
             description: "推荐使用，注册后免费使用，速度较快，稳定性较好，支持联网搜索",
             image: "https://static.iiter.cn/article/a3d1f864c49fb9592a7ed0b9683d44a1.png",

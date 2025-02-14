@@ -4,25 +4,29 @@
 
 ## 在线体验
 
-1.腾讯云【推荐】
+1.腾讯元宝，满血版本，支持联网搜索，稳定性强，微信/QQ扫码登录即可。
+
+[https://yuanbao.tencent.com/](https://yuanbao.tencent.com/)
+
+![](https://static.iiter.cn/article/e21902966e61af0ee97b83896701d790.png)
+
+2.腾讯云，注册后可免费使用，速度较快，稳定性较好，自家联网搜索服务支持  【推荐】
 
 [https://lke.cloud.tencent.com/webim_exp/?from=25533#/chat/wQrAwR](https://lke.cloud.tencent.com/webim_exp/?from=25533#/chat/wQrAwR)
 
 ![](https://static.iiter.cn/article/a3d1f864c49fb9592a7ed0b9683d44a1.png)
 
-注册后可免费使用，速度较快，稳定性较好，自家联网搜索服务支持  
 
+3.硅基流动  
 
-2.硅基流动  
+注册后即可免费使用，速度一般，稳定性一般，不支持联网搜索  
 
 [https://cloud.siliconflow.cn/i/gSzg42jx](https://cloud.siliconflow.cn/i/gSzg42jx)
 
 ![](https://static.iiter.cn/article/758c1ae8fbce352cae047a280bd13d48.png)
 
-注册后即可免费使用，速度一般，稳定性一般，不支持联网搜索  
 
-
-3.潞晨云
+4.潞晨云
 
 [https://cloud.luchentech.com/account/signup?invitation_code=invite_SrjPAnLFD1KzKKn25HQF8T](https://cloud.luchentech.com/account/signup?invitation_code=invite_SrjPAnLFD1KzKKn25HQF8T)
 
@@ -42,13 +46,13 @@ VIP/deepseek-ai/DeepSeek-R1
 
 
 
-4.钉钉(32b蒸馏版本)
+5.钉钉(32b蒸馏版本)
 
 打开钉钉个人助理，选择deepseek即可
 
 ![](https://static.iiter.cn/article/1dc429e563f386fb6bd874561e2051c5.png)
 
-5.支付宝百宝箱
+6.支付宝百宝箱
 
 [https://tbox.alipay.com/](https://tbox.alipay.com/)
 
@@ -59,7 +63,7 @@ VIP/deepseek-ai/DeepSeek-R1
 ![](https://static.iiter.cn/article/301407ea12607c56e321397f907fd8d8.png)
 
 
-6.国家超算中心
+7.国家超算中心
 
 [https://chat.scnet.cn/](https://chat.scnet.cn/)
 
@@ -67,7 +71,7 @@ VIP/deepseek-ai/DeepSeek-R1
 
 ![](https://static.iiter.cn/article/a9783575f02969b5070a27871954c2b7.png)
 
-7.基石
+8.基石
 
 https://www.coreshub.cn/
 
@@ -75,7 +79,7 @@ https://www.coreshub.cn/
 
 注册即送50元配额，需要实名认证，可在线体验，不支持联网搜索
 
-8.无问芯穹
+9.无问芯穹
 
 [https://cloud.infini-ai.com/](https://cloud.infini-ai.com/)
 
@@ -84,7 +88,7 @@ https://www.coreshub.cn/
 ![](https://static.iiter.cn/article/9a6b53f768901c9f3227930efbd1cf65.png)
 
 
-9.商汤大装置
+10.商汤大装置
 
 [https://console.sensecore.cn/](https://console.sensecore.cn/)
 
