@@ -97,6 +97,14 @@
 ![商汤界面1](https://static.iiter.cn/article/ad1e2438fec7064471196a53db70dc8b.png)
 ![商汤界面2](https://static.iiter.cn/article/28258b15c099849231d3894e659da8ff.png)
 
+### 11. 秘塔搜索
+
+- 注册后免费使用，微信扫码登录，需绑定手机号，支持联网搜索
+- 链接：[https://metaso.cn/](https://metaso.cn/)
+- 
+![秘塔界面](https://static.iiter.cn/article/4781ecb1ecf2f03a80d9e7e093312e6f.png)
+
+
 ## 二、API接入方式
 
 如果你需要在自己的项目中接入 DeepSeek，这里整理了几个稳定可靠的API服务商：

@@ -69,6 +69,13 @@ const navigationData = {
             image: "https://static.iiter.cn/article/ad1e2438fec7064471196a53db70dc8b.png",
             url: "https://console.sensecore.cn/",
             details: "pages/sensecore.html"
+        },
+        {
+            title: "秘塔搜索",
+            description: "注册后免费使用，支持联网搜索，微信扫码登录",
+            image: "https://static.iiter.cn/article/4781ecb1ecf2f03a80d9e7e093312e6f.png",
+            url: "https://metaso.cn/",
+            details: "pages/metaso.html"
         }
     ],
     api: [
