@@ -16,7 +16,7 @@
 
 > 实时内容更新，请关注:
 >
-> *   🚀 用AI生成的部署在vercel的 `deepseek导航` : <http://deepseek-nav.vercel.app/>
+> *   🚀 用AI生成的部署在vercel的 `deepseek导航` : <http://ds-free.vercel.app/>
 > *   📦 GitHub仓库: <https://github.com/isnl/deepseek-free>
 > *   公众号: `极客密码`
 
