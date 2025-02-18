@@ -125,7 +125,7 @@
 - 免费期限:2025年2月25日23:59:59前
 - 支持 DeepSeek-V3 和 DeepSeek-R1 双模型
 - 单账号接口并发上限为5
-- [详细API文档](https://cloud.tencent.com/document/product/1772/115963)
+- [https://cloud.tencent.com/document/product/1772/115963](https://cloud.tencent.com/document/product/1772/115963)
 
 ![腾讯云API](https://static.iiter.cn/article/23b47e9799ec8452a48c13d3e2fb195f.png)
 
