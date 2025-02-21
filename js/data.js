@@ -76,6 +76,27 @@ const navigationData = {
             image: "https://static.iiter.cn/article/4781ecb1ecf2f03a80d9e7e093312e6f.png",
             url: "https://metaso.cn/",
             details: "pages/metaso.html"
+        },
+        {
+            title: "火山引擎",
+            description: "新用户专享30元体验金，支持在线对话及API调用，响应速度快",
+            image: "https://static.iiter.cn/article/5707e39e8f115375411a3306867b888b.png",
+            url: "https://www.volcengine.com/experience/ark?utm_term=202502dsinvite&ac=DSASUQY5&rc=J3D8J5O7",
+            details: "pages/volcengine.html"
+        },
+        {
+            title: "知乎直达",
+            description: "深度整合知乎知识库，自带联网搜索，擅长学术科技领域",
+            image: "https://static.iiter.cn/article/e46cd51e06d898df5a6a6d2f6928c9ef.png",
+            url: "https://zhida.zhihu.com/",
+            details: "pages/zhihu.html"
+        },
+        {
+            title: "百度搜索",
+            description: "与百度搜索深度融合，可直接在搜索框使用，自带联网搜索",
+            image: "https://static.iiter.cn/article/230c22e27a2c63f92e9985dd8d627e42.png",
+            url: "https://www.baidu.com/",
+            details: "pages/baidu.html"
         }
     ],
     api: [
@@ -127,6 +148,13 @@ const navigationData = {
             image: "https://static.iiter.cn/article/ad1e2438fec7064471196a53db70dc8b.png",
             url: "https://console.sensecore.cn/",
             details: "pages/sensecore-api.html"
+        },
+        {
+            title: "火山引擎API",
+            description: "新用户专享30元体验金，支持API调用，需实名认证",
+            image: "https://static.iiter.cn/article/5707e39e8f115375411a3306867b888b.png",
+            url: "https://www.volcengine.com/experience/ark?utm_term=202502dsinvite&ac=DSASUQY5&rc=J3D8J5O7",
+            details: "pages/volcengine-api.html"
         }
     ],
     client: [

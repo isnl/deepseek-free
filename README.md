@@ -43,6 +43,29 @@
 
 ![腾讯云界面](https://static.iiter.cn/article/a3d1f864c49fb9592a7ed0b9683d44a1.png)
 
+### 火山引擎
+- 新用户专享：注册即送30元体验金
+- 支持在线对话及API调用（需实名认证）
+- 响应速度快，服务稳定
+- 访问地址：[[火山引擎智能创作平台](https://www.volcengine.com/experience/ark?utm_term=202502dsinvite&ac=DSASUQY5&rc=J3D8J5O7)](https://www.volcengine.com/experience/ark?utm_term=202502dsinvite&ac=DSASUQY5&rc=J3D8J5O7)
+
+![火山引擎在线体验](https://static.iiter.cn/article/5707e39e8f115375411a3306867b888b.png)
+
+### 知乎直达
+- 深度整合知乎海量知识库
+- 自带联网搜索功能
+- 擅长学术、科技等专业领域问答
+- 访问地址：[https://zhida.zhihu.com/](https://zhida.zhihu.com/)
+
+![知乎直达界面](https://static.iiter.cn/article/e46cd51e06d898df5a6a6d2f6928c9ef.png)
+
+### 百度搜索
+- 与百度搜索深度融合，可以直接在搜索框使用
+- 自带联网搜索
+- 访问地址：[https://www.baidu.com/](https://www.baidu.com/)
+
+![百度搜索AI助手](https://static.iiter.cn/article/230c22e27a2c63f92e9985dd8d627e42.png)
+
 ### 商汤大装置 【推荐】
 - 注册送80元代金券
 - 需开通大模型服务
